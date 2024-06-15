@@ -9,6 +9,7 @@ root.render(
   <React.StrictMode>
     <BrowserRouter basename={"/"}>
       <App />
+      agreger
     </BrowserRouter>
   </React.StrictMode>
 );
